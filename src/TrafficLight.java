@@ -1,3 +1,12 @@
+// CMSC 335
+// Project 3
+// Evan Martin
+// March 9, 2021
+
+//Car.java
+// This class defines the car as a runnable SwingWorker
+// the worker thread executes the defined behavior of a traffic light
+
 import javax.swing.JTextField;
 import javax.swing.SwingWorker;
 import java.awt.Color;

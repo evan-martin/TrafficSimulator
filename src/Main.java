@@ -1,5 +1,15 @@
+// CMSC 335
+// Project 3
+// Evan Martin
+// March 9, 2021
+
+//Main.java
+// This class creates the base GUI and uses the actionListener interface
+// to generate the desired components.
+
+
 import javax.swing.*;
-import java.awt.*;
+import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;

@@ -1,4 +1,14 @@
-import javax.swing.*;
+// CMSC 335
+// Project 3
+// Evan Martin
+// March 9, 2021
+
+//Clock.java
+// This class defines the clock as a runnable SwingWorker
+// the worker thread executes the defined behavior of a clock
+
+import javax.swing.JTextField;
+import javax.swing.SwingWorker;
 import java.util.Date;
 
 public class Clock extends SwingWorker<Void, Void>{
